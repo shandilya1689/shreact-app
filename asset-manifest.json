@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactCors/shreact-app/static/css/main.073c9b0a.css",
+    "main.js": "/ReactCors/shreact-app/static/js/main.f743e0d7.js",
+    "static/js/787.4d1c8ad3.chunk.js": "/ReactCors/shreact-app/static/js/787.4d1c8ad3.chunk.js",
+    "index.html": "/ReactCors/shreact-app/index.html",
+    "main.073c9b0a.css.map": "/ReactCors/shreact-app/static/css/main.073c9b0a.css.map",
+    "main.f743e0d7.js.map": "/ReactCors/shreact-app/static/js/main.f743e0d7.js.map",
+    "787.4d1c8ad3.chunk.js.map": "/ReactCors/shreact-app/static/js/787.4d1c8ad3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f743e0d7.js"
+  ]
+}
